@@ -1,0 +1,6 @@
+{'boundingBox': '81,11,12,14', 'text': '-r'}
+{'boundingBox': '94,11,49,14', 'text': 'HANK'}
+{'boundingBox': '143,45,63,14', 'text': 'FARMS'}
+{'boundingBox': '67,62,25,13', 'text': '1525'}
+{'boundingBox': '17,112,113,14', 'text': '900001+061-001-2'}
+{'boundingBox': '160,162,31,14', 'text': '21234'}

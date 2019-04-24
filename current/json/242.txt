@@ -1,0 +1,1 @@
+{"language": "de", "textAngle": 0.0, "orientation": "Up", "regions": [{"boundingBox": "105,145,69,104", "lines": [{"boundingBox": "124,145,14,6", "words": [{"boundingBox": "124,145,14,6", "text": "sue"}]}, {"boundingBox": "105,240,69,9", "words": [{"boundingBox": "105,240,17,8", "text": "eox"}, {"boundingBox": "128,241,46,8", "text": "tiratuitv"}]}]}]}

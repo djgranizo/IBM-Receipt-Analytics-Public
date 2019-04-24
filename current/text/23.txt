@@ -1,0 +1,7 @@
+{'boundingBox': '13,402,25,11', 'text': 'Am'}
+{'boundingBox': '41,401,8,12', 'text': 't'}
+{'boundingBox': '146,400,61,12', 'text': '10.00'}
+{'boundingBox': '67,481,10,13', 'text': 'If'}
+{'boundingBox': '131,482,13,13', 'text': 'Sr'}
+{'boundingBox': '196,481,27,12', 'text': 'Card'}
+{'boundingBox': '14,548,61,13', 'text': 'TIP..'}

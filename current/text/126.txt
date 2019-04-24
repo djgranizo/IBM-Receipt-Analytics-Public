@@ -1,0 +1,4 @@
+{'boundingBox': '189,128,36,10', 'text': 'Annunt:'}
+{'boundingBox': '184,185,5,5', 'text': 'z'}
+{'boundingBox': '195,181,30,11', 'text': 'Iotal:'}
+{'boundingBox': '232,191,42,2', 'text': '_'}

@@ -1,0 +1,7 @@
+{'boundingBox': '116,26,70,16', 'text': 'FRiDAYS'}
+{'boundingBox': '77,203,37,13', 'text': 'TBLS2'}
+{'boundingBox': '122,203,7,12', 'text': '/'}
+{'boundingBox': '138,203,4,12', 'text': '1'}
+{'boundingBox': '283,184,17,27', 'text': '9'}
+{'boundingBox': '90,333,36,13', 'text': 'Total'}
+{'boundingBox': '168,328,44,15', 'text': '127.65'}

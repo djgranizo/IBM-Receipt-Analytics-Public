@@ -1,0 +1,2 @@
+{'boundingBox': '159,29,41,7', 'text': 'House'}
+{'boundingBox': '205,28,35,8', 'text': 'Hotel'}

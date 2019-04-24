@@ -1,0 +1,1 @@
+{"language": "tr", "textAngle": 0.0, "orientation": "Up", "regions": [{"boundingBox": "58,278,43,11", "lines": [{"boundingBox": "58,278,43,11", "words": [{"boundingBox": "58,278,36,11", "text": "SAL:"}, {"boundingBox": "98,281,3,8", "text": ":"}]}]}]}

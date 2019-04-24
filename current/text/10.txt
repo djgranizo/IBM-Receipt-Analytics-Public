@@ -1,0 +1,2 @@
+{'boundingBox': '58,278,36,11', 'text': 'SAL:'}
+{'boundingBox': '98,281,3,8', 'text': ':'}

@@ -1,0 +1,3 @@
+{'boundingBox': '63,216,62,12', 'text': "pnoun,'fts"}
+{'boundingBox': '66,320,48,11', 'text': "14.881'"}
+{'boundingBox': '146,377,25,11', 'text': 'you'}

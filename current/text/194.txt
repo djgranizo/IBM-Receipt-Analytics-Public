@@ -1,0 +1,5 @@
+{'boundingBox': '132,36,20,8', 'text': "a'BQ"}
+{'boundingBox': '77,75,31,13', 'text': 'FIVE'}
+{'boundingBox': '117,75,32,13', 'text': 'GUYS'}
+{'boundingBox': '96,90,16,14', 'text': '23'}
+{'boundingBox': '40,208,24,10', 'text': 'Tot":'}
